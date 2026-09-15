@@ -1,4 +1,7 @@
 # Customer_Behavior_Analysis
+
+<img width="1352" height="742" alt="Screenshot 2026-09-15 082838" src="https://github.com/user-attachments/assets/976077d6-e0f8-45b2-a487-5e79c36617d7" />
+
 Data analytics project showcasing customer behavior analysis using python, sql , power Bi
 # Customer Behavior Analysis Project
 
